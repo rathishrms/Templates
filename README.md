@@ -1,0 +1,2 @@
+# Templates
+Store ARM templates
